@@ -1482,3 +1482,11 @@ hr {
   *display: inline;
   float: right;
 }
+#post
+h3 a:hover {
+    color:#D08688;
+    border-bottom: 1px dashed #D08688;
+}
+h3 a:link {
+    border-bottom: 1px dashed #C26164;
+}
